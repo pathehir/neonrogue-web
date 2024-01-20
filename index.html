@@ -62,6 +62,7 @@
         <script src="_content/nkast.Wasm.Canvas/js/Canvas.6.0.2.js"></script>
         <script src="_content/nkast.Wasm.Canvas/js/CanvasGLContext.6.0.2.js"></script>
         <script src="_content/nkast.Wasm.Audio/js/Audio.6.0.2.js"></script>
+        <script src="js/mejs.js"></script>
 
         <script>
             function tickJS() {
@@ -90,6 +91,7 @@
                 if ([32, 37, 38, 39, 40].indexOf(event.keyCode) > -1)
                     event.preventDefault();
             };
+
             window.onmousewheel = function (event) {
                 // Prevent Mousewheel scrolling the outer page
                 // when running inside an iframe. e.g: itch.io embedding.
