@@ -1,10 +1,10 @@
 {
   "entryAssembly": "RogueLikeNeonWeb",
   "resources": {
-    "hash": "sha256-6ruTS7GQaiRetM9kEALcK9OVlnk/KifzLCGCc85Sd8Q=",
+    "hash": "sha256-yByhBs8zCVou4vFQ5krypJoHN6Yle5UDZeTcmjc9IFU=",
     "runtime": {
-      "dotnet.6.0.27.9k8d8b8d5c.js": "sha256-NE3PqXqQPqpKqGHh+2xNNq0XWyA1FkxOpIEmvf0V1GQ=",
-      "dotnet.wasm": "sha256-u9/+VptS/Y25J+G0UlxrMDNKPCPlLHRi6ynMvbAm3mY=",
+      "dotnet.6.0.27.9k8d8b8d5c.js": "sha256-NasMG1LZg3u4nSnbT/E/f11UdI7z92lsyZNlnbypKP0=",
+      "dotnet.wasm": "sha256-/PEbjfQVg7JFUBobtVFpqKjbKBT69VLiCwUmZLgNPek=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie/ro3/QzyS+/gGmO3Y/0CSAXw4k=",
       "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
@@ -36,7 +36,7 @@
       "nkast.Wasm.Canvas.dll": "sha256-+kIcf7Lh97eDebaKgg2kitRIFXlhN1lgdwlR+9N5y90=",
       "nkast.Wasm.Dom.dll": "sha256-htsmTghA9VYd3vz6u5ASzEctD5v+6+VbTF9qEzMuW1s=",
       "nkast.Wasm.XHR.dll": "sha256-oJpMDhHHsNmkS2WlDOVDcKVKiu4CADSsuL5eetCS6MU=",
-      "RogueLikeNeonWeb.dll": "sha256-9Tl7v5wCnvvDbD/RM/23/y3qUmi+CFlu6LiTiRxH0oc=",
+      "RogueLikeNeonWeb.dll": "sha256-u0HQSEszS0JPWH9YE3LBn0C3kzb6sQwtTFyRjzAH1xY=",
       "System.Collections.Concurrent.dll": "sha256-CchAzendvcz08fSktYSDukB/pbOQymcF2Q2LJgaITlQ=",
       "System.Collections.dll": "sha256-GKQ6TRyWCTL3WvLEHjVBe8xrey/Y9Rv0Bz2eqZUMDDg=",
       "System.Collections.NonGeneric.dll": "sha256-6XwThePJ1p9tqehf/ZF30xNZJZlTeUKTFTP38RlfprI=",
@@ -60,7 +60,7 @@
       "System.Net.Primitives.dll": "sha256-mEWjBDx+lA5aTFudeGAewsfVkdIRG1tctGFzyQEPxbQ=",
       "System.Net.Sockets.dll": "sha256-yapz4eRClQbto5TPRKDY4LvzAq7pfWTiG4ZiRrRK4wM=",
       "System.ObjectModel.dll": "sha256-VLXNXL76Dm3Nm6mutjpl1jlvhGsiOD/jmFU0xbuUUek=",
-      "System.Private.CoreLib.dll": "sha256-QuaxQHBvSWPT95zC4V6bKGVXwlt2bqweDemLRnBFV/o=",
+      "System.Private.CoreLib.dll": "sha256-CP5GPQJn6Devit6uDM/aIIR0UL1ewJtuBP5DR/VFpAM=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-x0snjoNX25UMd4olUGL72KAt09ZHC6h4whpue7WyLqY=",
       "System.Private.Uri.dll": "sha256-Ge07UXE/z9x0myk7DN553AOFBtq08IoCN/l4xySZV28=",
       "System.Private.Xml.dll": "sha256-nprK5QDPOzyWAyFfi9/jQhCgsAW/uFrLj9NHCIPHk/4=",
@@ -69,7 +69,7 @@
       "System.Reflection.Emit.Lightweight.dll": "sha256-4PW2d5XXPUDRGjViBPm2Re0xw3a/2xCRRLZ2pi0gBbg=",
       "System.Reflection.Primitives.dll": "sha256-zwcDCXEWDOi4u6JnaQVBKDvlkdPVcmwTZPyXMHljiAY=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-sYv0zdmTTmv4X66afiXfyIw8e4NMZTR478NppbfiqUQ=",
-      "System.Runtime.dll": "sha256-2+Ntq51McDs6mrWdKGAHJoo6gYsqrAmf1UHwcR61yvE=",
+      "System.Runtime.dll": "sha256-WRLlXa1jGXnOaYQHK2+5wXNlUaLT4chwm2yOj8S5R5A=",
       "System.Runtime.InteropServices.dll": "sha256-9aqmXyv2uwm7W3lUTczIP04W5hhUtEHDWoS2j7/7DdA=",
       "System.Runtime.InteropServices.RuntimeInformation.dll": "sha256-u4fe6lLVl/aMttRL/fEVKUwDrad772j8hq9a3t1yOL4=",
       "System.Runtime.Intrinsics.dll": "sha256-voy9uyBlpiZd+waLxMORYsfhvD2TMSy7c1Y1sEIih3M=",
@@ -91,7 +91,7 @@
     },
     "runtimeAssets": {
       "dotnet.wasm": {
-        "hash": "sha256-u9/+VptS/Y25J+G0UlxrMDNKPCPlLHRi6ynMvbAm3mY=",
+        "hash": "sha256-/PEbjfQVg7JFUBobtVFpqKjbKBT69VLiCwUmZLgNPek=",
         "behavior": "dotnetwasm"
       }
     }
