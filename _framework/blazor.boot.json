@@ -1,10 +1,10 @@
 {
   "entryAssembly": "RogueLikeNeonWeb",
   "resources": {
-    "hash": "sha256-GtHk7Cgd4QgKGBAvZl6GairLXRLGkupwfspi6YpCHgY=",
+    "hash": "sha256-40hNmes2w4S5J0xmyHusiDKEAd7HaKivMnaLvF5bXTg=",
     "runtime": {
       "dotnet.6.0.27.9k8d8b8d5c.js": "sha256-8eW4r0GrNSckJjbH0yEhWmyAixXMbao+qKXW+og+KIk=",
-      "dotnet.wasm": "sha256-3miToV3yIFf2I4yFsEZNgct1jfh6z2CAKTbTDYrcyWg=",
+      "dotnet.wasm": "sha256-cgtoUuY0JjkdroHPc9eFETQgPKYyGKuEj9yQR3U+MBw=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie/ro3/QzyS+/gGmO3Y/0CSAXw4k=",
       "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
@@ -35,7 +35,7 @@
       "nkast.Wasm.Canvas.dll": "sha256-+kIcf7Lh97eDebaKgg2kitRIFXlhN1lgdwlR+9N5y90=",
       "nkast.Wasm.Dom.dll": "sha256-htsmTghA9VYd3vz6u5ASzEctD5v+6+VbTF9qEzMuW1s=",
       "nkast.Wasm.XHR.dll": "sha256-oJpMDhHHsNmkS2WlDOVDcKVKiu4CADSsuL5eetCS6MU=",
-      "RogueLikeNeonWeb.dll": "sha256-cgX+10xj0MSjTla+jgD624mKL8un/Ko4cvMTZUkoIcs=",
+      "RogueLikeNeonWeb.dll": "sha256-0ZZ+MrsOHG6s6IFmccGGGGdbvLFLsDSKsCybnT1S7S0=",
       "System.Collections.Concurrent.dll": "sha256-CchAzendvcz08fSktYSDukB/pbOQymcF2Q2LJgaITlQ=",
       "System.Collections.dll": "sha256-GKQ6TRyWCTL3WvLEHjVBe8xrey/Y9Rv0Bz2eqZUMDDg=",
       "System.Collections.NonGeneric.dll": "sha256-6XwThePJ1p9tqehf/ZF30xNZJZlTeUKTFTP38RlfprI=",
@@ -91,7 +91,7 @@
     },
     "runtimeAssets": {
       "dotnet.wasm": {
-        "hash": "sha256-3miToV3yIFf2I4yFsEZNgct1jfh6z2CAKTbTDYrcyWg=",
+        "hash": "sha256-cgtoUuY0JjkdroHPc9eFETQgPKYyGKuEj9yQR3U+MBw=",
         "behavior": "dotnetwasm"
       }
     }
